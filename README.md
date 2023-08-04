@@ -6,7 +6,7 @@ De uma forma acessível e descomplicada, mostrando informações sobre o site, c
 O projeto é uma atividade do curso DevClub.
 <br>
   Foram utilizadas as ferramentas de <b>HTML</b> e <b>CSS</b> para sua criação e é também responsivo.</p>
-Pode-se clicar <a href="https://pjeasy.netlify.app">aqui</a> para acessar o projeto hospedado.
+Pode-se clicar <a href="https://idanisiqueira.github.io/easy-shopping/">aqui</a> para acessar o projeto hospedado.
 <br>
 <br>
 Representação no computador desktop ou notebook:
